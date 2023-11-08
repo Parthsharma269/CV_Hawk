@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+
+.bg-color {
+    background-color: #F9F9F9;
+}
+
+.bg-oranged {
+    background-color: #FCE1D8;
+}
+
+.li {
+    color: #000000;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.li:hover {
+    color: #F36A3E;
+}
+
+.li-2 {
+    color: #fafafa;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-1 {
+    display: inline-flex;
+    padding: 17px 38px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 41px;
+    border: 1px solid transparent;
+    background: #F36A3E;
+
+}
+
+.btn-1:hover {
+    background: transparent;
+    border: 1px solid #F36A3E;
+    color: #F36A3E;
+}
+
+.btn-2 {
+    display: flex;
+    padding: 17px 38px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    border-radius: 41px;
+    border: 1px solid #ffffff;
+    background-color: #F36A3E;
+}
+
+.btn-2:hover {
+    background: transparent;
+    border: 1px solid #F36A3E;
+    color: #F36A3E;
+}
+
+.btn-3 {
+    display: flex;
+    padding: 17px 38px;
+    align-items: flex-start;
+    gap: 10px;
+    bottom: none;
+    border-radius: 41px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.Get-in-Touch {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Watch-Demo {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Book-a-Call {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Get-Started {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Get-Started-2 {
+    color: #010101;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.font-1 {
+    color: #000000;
+    font-family: "Rubik", sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+}
+
+.font-2 {
+    color: #000000;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.font-3 {
+    color: #010101;
+    font-family: "Rubik", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.font-4 {
+    color: #F36A3E;
+    font-family: "Rubik", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.font-5 {
+    color: #000;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.font-6 {
+    color: #010101;
+    font-family: "Rubik", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.font-7 {
+    color: #010101;
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.font-8 {
+    color: #FAFAFA;
+    font-family: "Rubik", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.font-9 {
+    color: #FAFAFA;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.font-10 {
+    color: #FAFAFA;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.font-11 {
+    color: #FAFAFA;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.font-12 {
+    color: #010101;
+    font-family: "Rubik", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.box-1 {
+    max-width: 100%;
+    max-width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #f36a3e66;
+    background: #ffffff;
+    box-shadow: 0px 4px 30px 0px #0000000a;
+}
+
+.box-2 {
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-flex;
+    padding: 12px;
+    border-radius: 21px;
+    background: #F36A3E;
+}
+
+.box-3 {
+    /* max-width: 100%;
+    max-width: 100%; */
+    max-width: 357px;
+    max-height: 104px;
+    padding: 12px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0px 18px 59px 0px #00000012;
+}
+
+.Themes {
+    color: #F36A3E;
+    font-family: "Rubik", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.Customize {
+    color: #F36A3E;
+    font-family: "Rubik", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.Make-copies {
+    color: #F36A3E;
+    font-family: "Rubik", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.paragraph {
+    color: #000000;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.box {
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    height: 50px;
+    width: 100%;
+    padding: 12px 12px 12px 12px;
+    overflow: hidden;
+}
+
+.arrow {
+    transition: all 555ms ease linear;
+}
+
+.active {
+    height: 185px;
+    transition: all 555ms ease linear;
+}
+
+.box.active {
+    border: 1px solid #ffffff;
+}
+
+.box.active .boxbody div .paragraph {
+    color: #ffffff;
+}
+
+.active .arrow {
+    rotate: 180deg;
+}
+
+@media (max-width:992px) {
+    label[for="icon"] {
+        width: 22px;
+        height: 22px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+        z-index: 4;
+        cursor: pointer;
+    }
+
+    label[for="icon"]>span {
+        width: 100%;
+        background-color: #ff4500;
+        height: 5px;
+        border-radius: 2px;
+    }
+
+    .mobile-view {
+        background-color: #ffffff;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        position: fixed;
+        right: -100%;
+        gap: 20px;
+        top: 0;
+        z-index: 3;
+        transition: all 555ms ease linear;
+    }
+
+    input[type="checkbox"]:checked+ul {
+        right: 0;
+    }
+}
