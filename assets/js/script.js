@@ -14,10 +14,10 @@ box.forEach(function (item) {
 
 // slider
 
-$('.slider').slick({
+$('.slider2').slick({
     autoplay: true,
     infinite: true,
     speed: 100,
-    slidesToShow: 3,
+    slidesToShow: 1,
     slidesToScroll: 1,
 });
