@@ -331,15 +331,133 @@
 
 .svg5 {
     right: 85%;
+    bottom: -40%;
 }
 
 .svg6 {
-    left: 90%;
+    left: 85%;
+    bottom: -35%;
 }
 
 .svg7 {
-    left: 44%;
-    top: 265%;
+    left: 43%;
+    bottom: 165%;
+}
+
+@media (min-width:393px) {
+    .font-2 {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .font-3 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .font-4 {
+        color: #F36A3E;
+        font-family: "Rubik", sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .paragraph {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .font-5 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .font-6 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 30px;
+        font-weight: 500;
+    }
+}
+
+@media (min-width:834px) {
+    .svg1 {
+        top: 8%;
+        left: 38%;
+    }
+
+    .svg2 {
+        bottom: 47%;
+        right: 85%;
+    }
+
+    .svg3 {
+        bottom: 40%;
+        left: 50%;
+    }
+
+    .svg4 {
+        top: 30%;
+        left: 85%;
+    }
+
+    .svg5 {
+        right: 85%;
+        bottom: -212%;
+    }
+
+    .svg6 {
+        left: 92%;
+        bottom: -218%;
+    }
+
+    .svg7 {
+        left: 43%;
+        bottom: -269%;
+    }
+
+    .font-2 {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .font-3 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .font-4 {
+        color: #F36A3E;
+        font-family: "Rubik", sans-serif;
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .paragraph {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .font-6 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 25px;
+        font-weight: 500;
+    }
 }
 
 @media (max-width:992px) {
@@ -380,27 +498,9 @@
     input[type="checkbox"]:checked+ul {
         right: 0;
     }
+}
 
-    .image1 {
-        top: 0%;
-        right: 69%;
-    }
-
-    .image2 {
-        top: 0%;
-        left: 69%;
-    }
-
-    .image3 {
-        bottom: 30%;
-        left: 69%;
-    }
-
-    .image4 {
-        bottom: 30%;
-        left: 16%;
-    }
-
+@media (min-width:1440px) {
     .svg1 {
         top: 8%;
         left: 38%;
@@ -422,290 +522,59 @@
     }
 
     .svg5 {
-        right: 85%;
+        right: 95%;
+        bottom: -77%;
     }
 
     .svg6 {
-        left: 90%;
+        left: 95%;
+        bottom: -75%;
     }
 
     .svg7 {
-        left: 44%;
-        top: 265%;
+        left: 43%;
+        top: 215%;
     }
 
-    @media (max-width:1200px) {
-        .image1 {
-            top: 0%;
-            right: 69%;
-        }
-
-        .image2 {
-            top: 0%;
-            left: 69%;
-        }
-
-        .image3 {
-            bottom: 30%;
-            left: 69%;
-        }
-
-        .image4 {
-            bottom: 30%;
-            left: 16%;
-        }
-
-        .svg1 {
-            top: 8%;
-            left: 38%;
-        }
-
-        .svg2 {
-            bottom: 47%;
-            right: 85%;
-        }
-
-        .svg3 {
-            bottom: 40%;
-            left: 50%;
-        }
-
-        .svg4 {
-            top: 30%;
-            left: 85%;
-        }
-
-        .svg5 {
-            right: 85%;
-        }
-
-        .svg6 {
-            left: 90%;
-        }
-
-        .svg7 {
-            left: 44%;
-            top: 265%;
-        }
+    .font-3 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 40px;
+        font-weight: 500;
     }
 
-    @media (max-width:768px) {
-        .image1 {
-            top: 0%;
-            right: 69%;
-        }
-
-        .image2 {
-            top: 0%;
-            left: 69%;
-        }
-
-        .image3 {
-            bottom: 30%;
-            left: 69%;
-        }
-
-        .image4 {
-            bottom: 30%;
-            left: 16%;
-        }
-
-        .svg1 {
-            top: 8%;
-            left: 38%;
-        }
-
-        .svg2 {
-            bottom: 47%;
-            right: 85%;
-        }
-
-        .svg3 {
-            bottom: 40%;
-            left: 50%;
-        }
-
-        .svg4 {
-            top: 30%;
-            left: 85%;
-        }
-
-        .svg5 {
-            right: 85%;
-        }
-
-        .svg6 {
-            left: 90%;
-        }
-
-        .svg7 {
-            left: 44%;
-            top: 265%;
-        }
+    .font-2 {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 18px;
+        font-weight: 400;
     }
 
-    @media (max-width:576px) {
-        .image1 {
-            top: 0%;
-            right: 69%;
-        }
-
-        .image2 {
-            top: 0%;
-            left: 69%;
-        }
-
-        .image3 {
-            bottom: 30%;
-            left: 69%;
-        }
-
-        .image4 {
-            bottom: 30%;
-            left: 16%;
-        }
-
-        .svg1 {
-            top: 8%;
-            left: 38%;
-        }
-
-        .svg2 {
-            bottom: 47%;
-            right: 85%;
-        }
-
-        .svg3 {
-            bottom: 40%;
-            left: 50%;
-        }
-
-        .svg4 {
-            top: 30%;
-            left: 85%;
-        }
-
-        .svg5 {
-            right: 85%;
-        }
-
-        .svg6 {
-            left: 90%;
-        }
-
-        .svg7 {
-            left: 44%;
-            top: 265%;
-        }
+    .font-4 {
+        color: #F36A3E;
+        font-family: "Rubik", sans-serif;
+        font-size: 40px;
+        font-weight: 500;
     }
 
-    @media (max-width:768px) {
-        .image1 {
-            top: 0%;
-            right: 69%;
-        }
-
-        .image2 {
-            top: 0%;
-            left: 69%;
-        }
-
-        .image3 {
-            bottom: 30%;
-            left: 69%;
-        }
-
-        .image4 {
-            bottom: 30%;
-            left: 16%;
-        }
-
-        .svg1 {
-            top: 8%;
-            left: 38%;
-        }
-
-        .svg2 {
-            bottom: 47%;
-            right: 85%;
-        }
-
-        .svg3 {
-            bottom: 40%;
-            left: 50%;
-        }
-
-        .svg4 {
-            top: 30%;
-            left: 85%;
-        }
-
-        .svg5 {
-            right: 85%;
-        }
-
-        .svg6 {
-            left: 90%;
-        }
-
-        .svg7 {
-            left: 44%;
-            top: 265%;
-        }
+    .paragraph {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
     }
 
-    @media (max-width:576px) {
-        .image1 {
-            top: 0%;
-            right: 69%;
-        }
+    .font-5 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+    }
 
-        .image2 {
-            top: 0%;
-            left: 69%;
-        }
-
-        .image3 {
-            bottom: 30%;
-            left: 69%;
-        }
-
-        .image4 {
-            bottom: 30%;
-            left: 16%;
-        }
-
-        .svg1 {
-            top: 8%;
-            left: 38%;
-        }
-
-        .svg2 {
-            bottom: 47%;
-            right: 85%;
-        }
-
-        .svg3 {
-            bottom: 40%;
-            left: 50%;
-        }
-
-        .svg4 {
-            top: 30%;
-            left: 85%;
-        }
-
-        .svg5 {
-            right: 85%;
-        }
-
-        .svg6 {
-            left: 90%;
-        }
-
-        .svg7 {
-            left: 44%;
-            top: 265%;
-        }
+    .font-6 {
+        color: #010101;
+        font-family: "Rubik", sans-serif;
+        font-size: 40px;
+        font-weight: 500;
     }
 }
