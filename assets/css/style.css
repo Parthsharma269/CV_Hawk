@@ -376,8 +376,8 @@
     .font-5 {
         color: #010101;
         font-family: "Rubik", sans-serif;
-        font-size: 12px;
-        font-weight: 500;
+        font-size: 16px;
+        font-weight: 600;
     }
 
     .font-6 {
@@ -434,14 +434,14 @@
     .font-3 {
         color: #010101;
         font-family: "Rubik", sans-serif;
-        font-size: 22px;
+        font-size: 30px;
         font-weight: 500;
     }
 
     .font-4 {
         color: #F36A3E;
         font-family: "Rubik", sans-serif;
-        font-size: 22px;
+        font-size: 30px;
         font-weight: 500;
     }
 
@@ -455,7 +455,7 @@
     .font-6 {
         color: #010101;
         font-family: "Rubik", sans-serif;
-        font-size: 25px;
+        font-size: 30px;
         font-weight: 500;
     }
 }
