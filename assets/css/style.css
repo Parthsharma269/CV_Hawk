@@ -211,10 +211,10 @@
 .box-2 {
     max-width: 100%;
     max-height: 100%;
-    padding: 12px;
+    padding: 64px 235px 64px 236px;
     border-radius: 21px;
     background: #F36A3E;
-    transform: translate(0, 75%);
+    transform: translate(0, 50%);
 }
 
 .box-3 {
