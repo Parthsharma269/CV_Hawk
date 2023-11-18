@@ -17,7 +17,7 @@ box.forEach(function (item) {
 $('.slider2').slick({
     autoplay: true,
     infinite: true,
-    speed: 100,
+    speed: 250,
     slidesToShow: 1,
     slidesToScroll: 1,
 });
