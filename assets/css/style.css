@@ -347,6 +347,19 @@
     bottom: 165%;
 }
 
+@media (min-width:393px) {
+    .box-2 {
+        display: inline-flex;
+        padding: 61px 21px 60px 21px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 21px;
+        background: #F36A3E;
+        transform: translate(0, 50%);
+    }
+}
+
 @media (min-width:834px) {
     .image1 {
         top: 0%;
@@ -426,6 +439,16 @@
     .svg7 {
         left: 43%;
         bottom: -307%;
+    }
+
+    .box-2 {
+        display: inline-flex;
+        padding: 36px 81px 36px 82px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 21px;
+        background: #F36A3E;
+        transform: translate(0, 50%);
     }
 }
 
@@ -548,5 +571,15 @@
     .svg7 {
         left: 40%;
         top: 252%;
+    }
+
+    .box-2 {
+        display: inline-flex;
+        padding: 64px 235px 64px 236px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 21px;
+        background: #F36A3E;
+        transform: translate(0, 50%);
     }
 }
