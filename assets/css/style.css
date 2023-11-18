@@ -286,27 +286,27 @@
 
 .image1 {
     top: 0%;
-    right: 69%;
+    right: 80%;
 }
 
 .image2 {
     top: 0%;
-    left: 69%;
+    left: 78%;
 }
 
 .image3 {
-    bottom: 30%;
-    left: 69%;
+    bottom: 18%;
+    left: 70%;
 }
 
 .image4 {
-    bottom: 30%;
-    left: 16%;
+    bottom: 18%;
+    left: 7%;
 }
 
 .image5 {
     top: -5%;
-    left: 20%;
+    left: 10%;
 }
 
 .svg1 {
@@ -345,6 +345,51 @@
 }
 
 @media (min-width:834px) {
+    .image1 {
+        top: 0%;
+        right: 80%;
+    }
+
+    .image2 {
+        top: 0%;
+        left: 78%;
+    }
+
+    .image3 {
+        bottom: 18%;
+        left: 70%;
+    }
+
+    .image4 {
+        bottom: 18%;
+        left: 7%;
+    }
+
+    .image5 {
+        top: -5%;
+        left: 10%;
+    }
+
+    .svg1 {
+        top: 7%;
+        left: 25%;
+    }
+
+    .svg2 {
+        bottom: 65%;
+        right: 92%;
+    }
+
+    .svg3 {
+        bottom: 37%;
+        left: 48%;
+    }
+
+    .svg4 {
+        top: 27%;
+        left: 90%;
+    }
+
     .svg1 {
         top: 8%;
         left: 38%;
@@ -366,18 +411,18 @@
     }
 
     .svg5 {
-        right: 85%;
-        bottom: -212%;
+        right: 81%;
+        bottom: -231%;
     }
 
     .svg6 {
         left: 92%;
-        bottom: -218%;
+        bottom: -237%;
     }
 
     .svg7 {
         left: 43%;
-        bottom: -269%;
+        bottom: -307%;
     }
 }
 
@@ -422,6 +467,31 @@
 }
 
 @media (min-width:1440px) {
+    .image1 {
+        top: 0%;
+        right: 80%;
+    }
+
+    .image2 {
+        top: 0%;
+        left: 78%;
+    }
+
+    .image3 {
+        bottom: 18%;
+        left: 70%;
+    }
+
+    .image4 {
+        bottom: 18%;
+        left: 7%;
+    }
+
+    .image5 {
+        top: -5%;
+        left: 10%;
+    }
+
     .svg1 {
         top: 8%;
         left: 38%;
@@ -442,18 +512,38 @@
         left: 85%;
     }
 
+    .svg1 {
+        top: 8%;
+        left: 34%;
+    }
+
+    .svg2 {
+        bottom: 42%;
+        right: 96%;
+    }
+
+    .svg3 {
+        bottom: 23%;
+        left: 52%;
+    }
+
+    .svg4 {
+        top: 40%;
+        left: 89%;
+    }
+
     .svg5 {
         right: 95%;
-        bottom: -77%;
+        bottom: -110%;
     }
 
     .svg6 {
         left: 95%;
-        bottom: -75%;
+        bottom: -110%;
     }
 
     .svg7 {
-        left: 43%;
-        top: 215%;
+        left: 40%;
+        top: 252%;
     }
 }
