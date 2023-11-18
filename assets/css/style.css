@@ -449,7 +449,7 @@
         align-items: center;
         border-radius: 21px;
         background: #F36A3E;
-        transform: translate(0, 50%);
+        transform: translate(0, 75%);
         overflow: hidden;
     }
 }
