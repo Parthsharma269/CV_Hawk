@@ -356,7 +356,8 @@
         align-items: center;
         border-radius: 21px;
         background: #F36A3E;
-        transform: translate(0, 50%);
+        transform: translate(0, 35%);
+        overflow: hidden;
     }
 }
 
@@ -449,6 +450,7 @@
         border-radius: 21px;
         background: #F36A3E;
         transform: translate(0, 50%);
+        overflow: hidden;
     }
 }
 
@@ -581,5 +583,6 @@
         border-radius: 21px;
         background: #F36A3E;
         transform: translate(0, 50%);
+        overflow: hidden;
     }
 }
