@@ -376,6 +376,17 @@
     border-radius: 6px;
 }
 
+.prev {
+    position: absolute;
+    top: -160%;
+    left: -736%;
+}
+
+.pos-abs {
+    position: absolute;
+    right: 0;
+}
+
 @media (min-width:393px) {
     .box-2 {
         display: inline-flex;
