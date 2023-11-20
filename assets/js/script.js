@@ -1,3 +1,5 @@
+// accordion
+
 let box = document.querySelectorAll(".box");
 console.log(box);
 box.forEach(function (item) {
