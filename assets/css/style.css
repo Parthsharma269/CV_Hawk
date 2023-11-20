@@ -358,15 +358,26 @@
     border-radius: 6px;
 }
 
-.pos-abs {
+.buttons {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #F36A3E;
+    background-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: absolute;
-    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
-.prev {
-    position: absolute;
-    top: -160%;
-    left: -915%;
+.buttons.prev {
+    left: 12px;
+}
+
+.buttons.next {
+    right: 12px;
 }
 
 @media (min-width:393px) {
