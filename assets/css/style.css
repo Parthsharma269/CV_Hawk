@@ -392,6 +392,11 @@
         transform: translate(0, 35%);
         overflow: hidden;
     }
+
+    .svg8 {
+        left: 14%;
+        top: 62%;
+    }
 }
 
 @media (min-width:834px) {
@@ -473,6 +478,16 @@
     .svg7 {
         left: 43%;
         bottom: -307%;
+    }
+
+    .svg8 {
+        left: 54%;
+        top: 59%;
+    }
+
+    .svg9 {
+        top: 345%;
+        left: 5%;
     }
 
     .box-2 {
@@ -606,6 +621,16 @@
     .svg7 {
         left: 40%;
         top: 252%;
+    }
+
+    .svg8 {
+        left: 52%;
+        top: 34%;
+    }
+
+    .svg9 {
+        top: 227%;
+        left: 5%;
     }
 
     .box-2 {
