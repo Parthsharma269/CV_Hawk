@@ -467,27 +467,32 @@
 
     .svg5 {
         right: 81%;
-        bottom: -231%;
+        bottom: -218%;
     }
 
     .svg6 {
         left: 92%;
-        bottom: -237%;
+        bottom: -223%;
     }
 
     .svg7 {
-        left: 43%;
-        bottom: -307%;
+        left: 0%;
+        bottom: 100%;
     }
 
     .svg8 {
-        left: 54%;
-        top: 59%;
+        left: 40%;
+        top: 378%;
     }
 
     .svg9 {
         top: 345%;
         left: 5%;
+    }
+
+    .svg10 {
+        top: -10%;
+        left: 0%;
     }
 
     .box-2 {
@@ -631,6 +636,11 @@
     .svg9 {
         top: 227%;
         left: 5%;
+    }
+
+    .svg10 {
+        top: 465%;
+        left: 56%;
     }
 
     .box-2 {
