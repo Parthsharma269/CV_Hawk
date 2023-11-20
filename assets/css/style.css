@@ -345,7 +345,7 @@
     height: 5px !important;
     content: ' ' !important;
     opacity: .25;
-    background-color: gray;
+    background-color: #E5E5E5;
     border-radius: 6px;
 }
 
