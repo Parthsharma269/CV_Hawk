@@ -393,7 +393,7 @@
         overflow: hidden;
     }
 
-    .svg10 {
+    .svg9 {
         top: -10%;
     }
 }
@@ -466,7 +466,7 @@
 
     .svg5 {
         right: 81%;
-        bottom: -231%;
+        bottom: -219%;
     }
 
     .svg6 {
@@ -476,12 +476,12 @@
 
     .svg7 {
         left: 43%;
-        bottom: -307%;
+        bottom: -295%;
     }
 
     .svg8 {
-        left: 54%;
-        top: 59%;
+        top: 345%;
+        left: 5%;
     }
 
     .svg9 {
@@ -489,7 +489,7 @@
         left: 5%;
     }
 
-    .svg11 {
+    .svg10 {
         top: -10%;
         left: 0%;
     }
@@ -628,21 +628,16 @@
     }
 
     .svg8 {
-        left: 52%;
-        top: 34%;
-    }
-
-    .svg9 {
         top: 52%;
         left: 52%;
     }
 
-    .svg10 {
+    .svg9 {
         top: 227%;
         left: 5%;
     }
 
-    .svg11 {
+    .svg10 {
         top: 465%;
         left: 56%;
     }
