@@ -358,15 +358,15 @@
     border-radius: 6px;
 }
 
+.pos-abs {
+    position: absolute;
+    right: 0;
+}
+
 .prev {
     position: absolute;
     top: -160%;
     left: -736%;
-}
-
-.pos-abs {
-    position: absolute;
-    right: 0;
 }
 
 @media (min-width:393px) {
