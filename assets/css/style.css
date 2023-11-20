@@ -358,6 +358,24 @@
     border-radius: 6px;
 }
 
+.slick-button li button::before {
+    width: 16px !important;
+    height: 5px !important;
+    content: ' ' !important;
+    opacity: .25;
+    background-color: grey;
+    border-radius: 6px;
+}
+
+.slick-button .li.slick-active button::before {
+    width: 16px !important;
+    height: 5px !important;
+    content: ' ' !important;
+    opacity: .25;
+    background-color: grey;
+    border-radius: 6px;
+}
+
 @media (min-width:393px) {
     .box-2 {
         display: inline-flex;
